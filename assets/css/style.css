@@ -66,7 +66,8 @@ div{
 #hero h1,
 #hero p {
     margin-bottom: 20px;
-    font-size: 50px;
+    font-size: 20px;
+    color: white
 }
 
 
@@ -131,6 +132,7 @@ header {
 .col {
     float: left;
     padding: 10px;
+    text-align: center;
 }
 
 .c75 {
@@ -147,6 +149,10 @@ header {
 
 .c40 {
     width: 40%;
+}
+
+.c33 {
+    width: 33%;
 }
 
 .c25 {
@@ -177,6 +183,7 @@ header {
     .c60,
     .c50,
     .c40,
+    .c33,
     .c25 {
         width: 100%;
     }
